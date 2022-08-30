@@ -18,16 +18,56 @@ function message() {
         document.getElementById("message").innerHTML = "Everyone hates maths but thank you for teaching each and every concept with perfection."
     }
     if (select == "Ami") {
-        document.getElementById("message").innerHTML = "Thank You Ma'am for teaching me Vocal with perfection."
+        document.getElementById("message").innerHTML = "Thank You Ma'am for teaching us Vocal with perfection."
     }
     if (select == "Bhaumik") {
-        document.getElementById("message").innerHTML = "पाठ्यक्रमादाधिकातरं ध्यानं व्याकरणं ददातुं भवते धन्यवाद।   "
+        document.getElementById("message").innerHTML = "पाठ्यक्रमेण अधिकं महत्व व्याकरणं प्रति धन्यवाद।  "
     }
     if (select == "Hetal") {
-        document.getElementById("message").innerHTML = "Thank You Sir for teaching interesting topics in every class."
+        document.getElementById("message").innerHTML = "Thank You Sir for us teaching interesting topics in every class."
     }
     if (select == "Prashant") {
-        document.getElementById("message").innerHTML = "Thank You Sir for teaching me Art & Craft with perfection."
+        document.getElementById("message").innerHTML = "Thank You Sir for teaching us Art & Craft with perfection."
     }
+
+    if (select == "Sweety") {
+        document.getElementById("message").innerHTML = "Thank You for allowing us to wish a good night in a good morning and also teaching us science with excellence."
+    }
+
+    if (select == "Shailly") {
+        document.getElementById("message").innerHTML = "हम हिंदी में प्रतिभाशाली विद्यार्थी बनाने के लिए धन्यवाद।"
+    }
+
+    if (select == "Kajal") {
+        document.getElementById("message").innerHTML = "Thank You for teaching us maths in a way that every child would love it."
+    }
+
+    if (select == "Maulik") {
+        document.getElementById("message").innerHTML = "वयं परिपूर्णतां संस्कृत शिक्षाय धन्यवाद।"
+    }
+
+    if (select == "Arpita") {
+        document.getElementById("message").innerHTML = "Thank You for teaching science in a foolproof manner."
+    }
+
+    if (select == "Kamal") {
+        document.getElementById("message").innerHTML = "हमें हिंदी का बेहतर विद्यार्थी बनाने के लिए धन्यवाद। "
+    }
+    
+    if (select == "Ishrat") {
+        document.getElementById("message").innerHTML = "Thank you for making us understand each and every concept in maths. "
+    }
+
+    if (select == "Jitendra") {
+        document.getElementById("message").innerHTML = "Thank you for giving us practical example of ever sum and making us understand everything. "
+    }
+
+    if (select == "Hardik") {
+        document.getElementById("message").innerHTML = "Thank you for giving motivational speeches and teaching us gardening with perfection. "
+    }
+
+
+
+
 
 }
