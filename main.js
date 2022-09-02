@@ -66,6 +66,14 @@ function message() {
         document.getElementById("message").innerHTML = "Thank you for giving motivational speeches and teaching us gardening with perfection. "
     }
 
+        if (select == "Amrish") {
+        document.getElementById("message").innerHTML = "Thank you for making our favourite period even more memorable. "
+    }
+    
+    if (select == "Hardik") {
+        document.getElementById("message").innerHTML = "The attentions and stand-at-eases by you in the assembly and your efforts to make a cricket team in the school can never be forgotten "
+    }
+
 
 
 
