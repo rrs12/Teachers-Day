@@ -73,6 +73,18 @@ function message() {
     if (select == "Snehesh") {
         document.getElementById("message").innerHTML = "The attentions and stand-at-eases by you in the assembly and your efforts to make a cricket team in the school can never be forgotten "
     }
+    
+    if (select == "Parth") {
+        document.getElementById("message").innerHTML = "Thank You sir for making me love books. "
+    }
+    
+    if (select == "Gaurang") {
+        document.getElementById("message").innerHTML = "Thank You sir for enlightening us with the knowledge of chess  "
+    }
+    
+    if (select == "Kunal") {
+        document.getElementById("message").innerHTML = "I did not use to like Karate before Covid but somehow I started liking it. Thank You sir for teaching Karate with perfection "
+    }
 
 
 
