@@ -21,7 +21,7 @@ function message() {
         document.getElementById("message").innerHTML = "Thank You Ma'am for teaching us Vocal with perfection."
     }
     if (select == "Bhaumik") {
-        document.getElementById("message").innerHTML = "पाठ्यक्रमेण अधिकं महत्व व्याकरणं प्रति धन्यवाद।  "
+        document.getElementById("message").innerHTML = "पाठ्यक्रमादधिकं महत्व व्याकरणं ददातु धन्यवाद।  "
     }
     if (select == "Hetal") {
         document.getElementById("message").innerHTML = "Thank You Sir for us teaching interesting topics in every class."
